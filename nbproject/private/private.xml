@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/welcomehr.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/add1.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/admin.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/add1.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/add.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/paysalary.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/generatereportbyaccz.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/displayemployee1.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/LoginVerifier.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/ValidateServlet.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/actualupdatebyacc1.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/updatebyaccz.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/updatebyaccz.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/generatereport.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/generatereportbyaccz.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/main.css</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/update.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/generatepayslipbyaccz.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/addaccountant.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/addaccountant.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/welcomeemployee.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/applyleave.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/generatepayslipbyacc1.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/index.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/welcomeaccountantz.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/update.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/add.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/generatereportbyacc1.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/welcomeaccountant1.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/add2.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/generatepayslip.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/paysalary.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/updatebyacc1.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/displayemployee.java</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/generatepayslipbyaccz.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/updatebyacc1.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/applyleave.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/actualupdate.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/generatepayslip.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/web/actualupdatebyaccz.jsp</file>
+            <file>file:/C:/Users/Parth%20Lathiya/Documents/NetBeansProjects/PayRoll_Management_System/src/java/validateservlet1.java</file>
+        </group>
+    </open-files>
+</project-private>
